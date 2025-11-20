@@ -1,5 +1,5 @@
-- id: precheck
-  name: Project precheck
-  entry: ./precheck.py
-  language: script
-  pass_filenames: false
+  - id: my-custom-hook
+    name: My custom hook
+    entry: precheck.py
+    language: python
+    pass_filenames: false
