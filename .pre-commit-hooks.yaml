@@ -1,4 +1,4 @@
   - id: struct_check
     name: Struct check
-    entry: ./precheck.py
+    entry: ./struct_check/main.py
     language: python
