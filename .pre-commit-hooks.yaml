@@ -1,5 +1,5 @@
 - id: precheck
   name: Project precheck
-  entry: python3 precheck.py
+  entry: ./precheck.py
   language: script
   pass_filenames: false
