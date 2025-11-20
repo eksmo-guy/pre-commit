@@ -1,0 +1,4 @@
+  - id: struct_check
+    name: Struct check
+    entry: ./precheck.py
+    language: python
