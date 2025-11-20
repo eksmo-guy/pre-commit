@@ -1,6 +1,5 @@
 - id: precheck
   name: Project precheck
   entry: python3 precheck.py
-  language: system
-  types: [python]
+  language: script
   pass_filenames: false
